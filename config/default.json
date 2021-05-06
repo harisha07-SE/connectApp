@@ -1,0 +1,7 @@
+{
+    "mongoURI": "mongodb+srv://harisha07:harisha07@connectapp.nxeko.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken",
+    "githubClientId": "963b112cf5c381379f52",
+    "githubSecret": "07f159450e941fb111e298b9fb98ecbe94d5c9c6",
+    "githubToken": "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"
+}
